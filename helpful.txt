@@ -1,0 +1,4 @@
+For Pyaudio
+
+pip install pipwin
+pipwin install pyaudio

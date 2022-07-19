@@ -1,5 +1,9 @@
 #import library
-
+'''
+Authors  
+Paul Moses Mulwa
+Timothy Ndichu
+'''
 import speech_recognition as sr
 
 # Initialize recognizer class (for recognizing the speech)

@@ -1,1 +1,1 @@
-## Realtime speech transcription
+## Realtime speech transcription in Python

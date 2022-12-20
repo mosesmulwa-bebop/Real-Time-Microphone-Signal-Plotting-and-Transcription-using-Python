@@ -1,1 +1,1 @@
-## Realtime speech transcription in Python
+## Realtime speech transcription in Python from MIcrophone
